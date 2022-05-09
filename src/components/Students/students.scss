@@ -1,0 +1,23 @@
+$back-grey: #bdbfc7;
+
+.studentList {
+    background-color: white;
+    width: 70%;
+    border-radius: 10px;
+    padding: 0;
+    margin: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.student {
+    // width: 100%;
+    border-bottom: solid 1px $back-grey;
+    display: flex;
+    
+}
+
+.studentPic {
+    border: solid 1px $back-grey;
+    border-radius: 40%;
+}
